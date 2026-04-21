@@ -1,3 +1,6 @@
+#link for dataset: 
+https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025
+
 # IPL Big Data Analytics & Match Prediction System
 
 A complete Big Data mini-project using IPL cricket data (2008–2024).
